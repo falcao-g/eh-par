@@ -1,0 +1,6 @@
+{
+  "name": "@falcao/eh-par",
+  "version": "1.0.0",
+  "exports": "./main.ts",
+  "license": "MIT"
+}
